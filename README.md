@@ -1,2 +1,2 @@
 # hello-world
-learning programming is so excting!!!
+learning programming is so exciting!!!
